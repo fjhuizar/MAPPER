@@ -5,8 +5,9 @@ Here is a repository for the manuscript titled MAPPER: A new image analysis pipe
 All code for the MAPPER application was done using [MATLAB](https://www.mathworks.com/products/matlab.html).  
 
 # Instructions to run the application
-- You can download all of the associated code [here](https://google.com)
-- You can download the full user manual for how to begin using MAPPER [here](https://google.com)
+- You can download all of the associated code [here](https://downgit.github.io/#/home?url=https://github.com/fjhuizar/MAPPER/tree/main/MAPPER_v1.0.0)
+- Once you have downloaded the .ZIP folder, extract the folder to an easily accessible location
+- You can download the full user manual for how to begin using MAPPER [here](https://github.com/fjhuizar/MAPPER/raw/main/MAPPER_v1.0.0/MAPPER_manual.pdf)
   - Alternatively, the full user manual is available within the downloadable MAPPER folder
 
 # Available [ILASTIK](https://www.ilastik.org/documentation/pixelclassification/pixelclassification.html) pixel classification modules
