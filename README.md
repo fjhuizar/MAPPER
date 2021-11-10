@@ -10,25 +10,31 @@ All code for the MAPPER application was done using [MATLAB](https://www.mathwork
   - Alternatively, the full user manual is available within the downloadable MAPPER folder
 
 # Available [ILASTIK](https://www.ilastik.org/documentation/pixelclassification/pixelclassification.html) pixel classification modules
-Below you will find pre-trained pixel classification modules in ILASTIK for several wing images we have already processed. These modules are crucial for step five of the MAPPER user manual. Below each module link, you will find a representative image of the *Drosophia* wings that were processed by the module. You should download and use the ILASTIK module that has the closest resemblance in lighting, background, and contrast to the images you would like to process. If none of the available ILASTIK modules closely resemble the images you would like to process, there are detailed instructions in the user manual on how to train your own ILASTIK module.
+Below you will find pre-trained pixel classification modules in ILASTIK for several wing images we have already processed. These modules are crucial for step five of the MAPPER user manual. Below each module link, you will find a representative image of the *Drosophia* wings that were processed by the module. You should download and use the ILASTIK module that has the closest resemblance in lighting, background, brightness, contrast, and saturation to the images you would like to process. If none of the available ILASTIK modules closely resemble the images you would like to process, there are detailed instructions in the user manual on how to train your own ILASTIK module.
 
 - [Download](https://downgit.github.io/#/home?url=https://github.com/fjhuizar/MAPPER/tree/main/ILASTIKPixelClassifier_1) ILASTIK module 1
 Source: Nilay Kumar, Zartman Lab, Univeristy of Notre Dame
+![](Classifier 1.png)
 
 - [Download](https://downgit.github.io/#/home?url=https://github.com/fjhuizar/MAPPER/tree/main/ILASTIKPixelClassifier_2) ILASTIK module 2
 Source: Nilay Kumar, Zartman Lab, Univeristy of Notre Dame
+![](Classifier 2.png)
 
 - [Download](https://downgit.github.io/#/home?url=https://github.com/fjhuizar/MAPPER/tree/main/ILASTIKPixelClassifier_3) ILASTIK module 3
 Source: Nilay Kumar, Zartman Lab, Univeristy of Notre Dame
+![](Classifier 3.png)
 
 - [Download](https://downgit.github.io/#/home?url=https://github.com/fjhuizar/MAPPER/tree/main/ILASTIKPixelClassifier_4) ILASTIK module 4
 Source: Nilay Kumar, Zartman Lab, Univeristy of Notre Dame
+![](Classifier 4.png)
 
 - [Download](https://downgit.github.io/#/home?url=https://github.com/fjhuizar/MAPPER/tree/main/ILASTIKPixelClassifier_5) ILASTIK module 5
 Source: Nilay Kumar, Zartman Lab, Univeristy of Notre Dame
+![](Classifier 5.png)
 
 - [Download](https://downgit.github.io/#/home?url=https://github.com/fjhuizar/MAPPER/tree/main/ILASTIKPixelClassifier_6) ILASTIK module 6
 Source: Nilay Kumar, Zartman Lab, Univeristy of Notre Dame
+![](Classifier 6.png)
 
 # Acknowledgements
 We would like to thank the South Bend Medical Foundation for generous access to their Apero Slide Scanner. We would like to thank [Dr. Ramezan Paravi Torghabeh](https://www.linkedin.com/in/ramezan-paravi-torghabeh-phd-b432baa0/), [Vijay Kumar Naidu Velagala](https://in.linkedin.com/in/vijay-kumar-naidu-velagala-34462429), [Dr. Megan Levis](https://scholar.google.com/citations?user=SY2-XTgAAAAJ&hl=en), and [Dr. Qinfeng Wu](https://www.linkedin.com/in/qinfengwu) for technical assistance and scientific discussions related to the project. The work in this manuscript was supported in part by NIH Grant R35GM124935, NSF award CBET-1553826, NSF-Simons Pilot award through Northwestern University, the Notre Dame International Mexico Faculty Grant Program, and grant CB-014-01-236685 from the Concejo Nacional de Ciencia y Tecnología of Mexico.
