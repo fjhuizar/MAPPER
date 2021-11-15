@@ -15,31 +15,37 @@ Below you will find pre-trained pixel classification modules in ILASTIK for seve
 
 - [Download](https://downgit.github.io/#/home?url=https://github.com/fjhuizar/MAPPER/tree/main/ILASTIKPixelClassifier_1) ILASTIK module 1
   - **Source:** Nilay Kumar, Zartman Lab, Univeristy of Notre Dame
+  - One channel (Grayscale)
 ![](Classifier_1.png)
 
 
 - [Download](https://downgit.github.io/#/home?url=https://github.com/fjhuizar/MAPPER/tree/main/ILASTIKPixelClassifier_2) ILASTIK module 2
   - **Source:** Nilay Kumar, Zartman Lab, Univeristy of Notre Dame
+  - One channel (Grayscale)
 ![](Classifier_2.png)
 
 
 - [Download](https://downgit.github.io/#/home?url=https://github.com/fjhuizar/MAPPER/tree/main/ILASTIKPixelClassifier_3) ILASTIK module 3
   - **Source:** Nilay Kumar, Zartman Lab, Univeristy of Notre Dame
+  - Three channels (RGB)
 ![](Classifier_3.png)
 
 
 - [Download](https://downgit.github.io/#/home?url=https://github.com/fjhuizar/MAPPER/tree/main/ILASTIKPixelClassifier_4) ILASTIK module 4
   - **Source:** Nilay Kumar, Zartman Lab, Univeristy of Notre Dame
+  - One channel (Grayscale)
 ![](Classifier_4.png)
 
 
 - [Download](https://downgit.github.io/#/home?url=https://github.com/fjhuizar/MAPPER/tree/main/ILASTIKPixelClassifier_5) ILASTIK module 5
   - **Source:** Nilay Kumar, Zartman Lab, Univeristy of Notre Dame
+  - One channel (Grayscale)
 ![](Classifier_5.png)
 
 
 - [Download](https://downgit.github.io/#/home?url=https://github.com/fjhuizar/MAPPER/tree/main/ILASTIKPixelClassifier_6) ILASTIK module 6
   - **Source:** Nilay Kumar, Zartman Lab, Univeristy of Notre Dame
+  - Three channels (RGB)
 ![](Classifier_6.png)
 
 
