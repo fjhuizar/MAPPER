@@ -1,15 +1,20 @@
 ---
 title: |
-  | MAPPER Measurement Validation
-  | Fall 2021
+  | MAPPER: An open-source, high-dimensional image analysis pipeline unmasks differential regulation of *Drosophila* wing features
+  |
+  | Supplementary File 2
 author: | 
-  | Francisco Huizar
-  | University of Notre Dame
-  | Department of Chemical and Biomolecular Engineering
-  | Bioengineering Ph.D. Program, 4th year
+  | **Notebook Author:** Francisco Huizar
   |
-  | ![](Resources/titlePage.png){width=400px}
+  | **Manuscript Authorship:**
+  | Nilay Kumar$^{1,+}$, Francisco J. Huizar$^{1,+}$, Keity J. Farfan-Pira$^2$, Pavel Brodskiy$^1$, Dharsan Soundarrajan$^1$, Marcos Nahmad$^2$, Jeremiah J. Zartman$^{1,*}$
   |
+  | $^1$Department of Chemical and BIomolecular Engineering, University of Notre Dame, Notre Dame, IN, 46556, USA
+  | $^2$ Department of Physiology, Biophysics, and Neurosciences, Center for Research and Advanced Studies of the National Polytechnical Institute (Cinvestav), Mexico City, Mexico 07360
+  |
+  | $^+$These authors contributed equally to this work.
+  |
+  | $^*$Correspondence: jzartman@nd.edu, (+1) 574-631-0455
 output:
   html_document:
     keep_md: yes
